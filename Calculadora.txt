@@ -1,0 +1,3 @@
+iremos criar uma CLI de calculadora em TYPESCRIPT
+1. >npm i -g typescript
+2.>tsc -v: saber a versao do typescript
