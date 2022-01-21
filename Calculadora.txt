@@ -1,3 +1,17 @@
 iremos criar uma CLI de calculadora em TYPESCRIPT
-1. >npm i -g typescript
+1. >npm i -g typescript// uma instalação global de typescript
+fecha o terminal e recomeça e escreva para ver sua versão
 2.>tsc -v: saber a versao do typescript
+tsc -v// descobre a versao
+Quando isso estiver pronto verá : 
+version 3.8.3
+Depois inicia-se o Projeto escrevendo
+
+.>npm init -y:Inicia o pacote package.json
+...
+Agora cria um arquivo index.
+index.ts(Esse é o index em typeScript).
+dentro dele escreva
+console.lor('Estou escrevendo codigo em Typescript');
+Compilar no terminal para que tenha arquivo .Js
+>tsc.\index.ts...Ao clicar Enter o arquivo será convertido em arquivo ;js
